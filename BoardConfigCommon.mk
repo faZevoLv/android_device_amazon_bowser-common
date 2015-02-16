@@ -1,5 +1,8 @@
 BOWSER_COMMON_FOLDER := device/amazon/bowser-common
 
+# Liquid stuff
+LIQUID_CHANGELOG := true
+
 # inherit from common
 -include device/amazon/omap4-common/BoardConfigCommon.mk
 
